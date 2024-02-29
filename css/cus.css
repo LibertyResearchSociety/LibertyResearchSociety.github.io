@@ -97,18 +97,6 @@
 
 /* 个人信息卡片背景图 */
 
-#footer {
-    background: var(--icat-footer-background);
-}
-  
-#footer #footer-wrap {
-    color: var(--font-color)
-}
-  
-#footer #footer-wrap a {
-    color: var(--font-color)
-}
-  
 #nav *::after{
     background-color: transparent!important;
 }  
